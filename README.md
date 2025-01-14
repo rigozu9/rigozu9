@@ -1,5 +1,5 @@
 ### Hi there I'm Riku👋
 
-- 🔭 I’m currently working on TypeScript study schedule application
-- 🌱 I’m currently learning about computing platforms.
+- 🔭 I’m currently working on AI powered image editing app
+- 🌱 I’m currently learning NextJs.
 - ⚡ Fun fact: I like football.
