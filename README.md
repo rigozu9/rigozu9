@@ -1,5 +1,9 @@
-### Hi there I'm Riku👋
+### Hi, I’m Riku 👋
 
-- 🔭 I’m currently working on wardrobe recommandation application
-- 🌱 I’m currently learning to develop a clothing recommandation system using machine learning.
-- ⚡ Fun fact: I like football.
+**Data Science MSc @ University of Helsinki** focused on **data engineering and analysis** and **software engineering**.
+
+- 🔭 Building a data engineering project (ETL → warehouse → dbt models → dashboards)
+- 🌱 Learning dbt + ETL orchestration + advanced SQL
+- 🎯 Looking for Data Engineer, Data Analyst or Software Engineering roles.
+
+📌 Pinned repos below show my latest work. 
