@@ -2,8 +2,8 @@
 
 **Data Science MSc @ University of Helsinki** focused on **data engineering and analysis** and **software engineering**.
 
-- 🔭 Building a data engineering project (ETL → warehouse → dbt models → dashboards)
-- 🌱 Learning dbt + ETL orchestration + advanced SQL
-- 🎯 Looking for Data Engineer, Data Analyst or Software Engineering roles.
+- Building a Github data engineering project. 🔭 
+- Learning more about dbt transformations + ELT orchestration + advanced SQL. 🌱 
+- Looking for Data Engineer, Data Analyst or Software Engineering roles. 🎯 
 
-📌 Pinned repos below show my latest work. 
+Pinned repos below show my work. 📌 
